@@ -11,9 +11,9 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "classmap":{
+        "classmap":[
             "Daemon.php"
-        }
+        ]
     },
     "minimum-stability": "dev"
 }
