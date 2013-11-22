@@ -1,7 +1,7 @@
-Pear System Deamon
+Pear System Daemon
 ========
 
-This is Pear System Deamon for composer
+This is Pear System Daemon for composer
 
 
 
